@@ -11,7 +11,6 @@ Steps
 php artisan migrate \
 php artisan db:seed --class=AdminSeeder \
 php artisan storage:link \
-npm run dev \
 php artisan serve
 
 login credentials \
